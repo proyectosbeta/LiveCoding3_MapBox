@@ -1,6 +1,9 @@
 # LiveCoding3_MapBox
 Live coding: Mejor ruta entre dos puntos usando MapBox.
 
+# Screenshots
+![Screenshot](screenshots/EjemploMejorRuta.png)
+
 ## Herramientas de desarrollo
 * Librería de mapas: MapBox https://www.mapbox.com/)
 * Lenguajes de programación: HTML, CSS y JavaScript
