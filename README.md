@@ -6,7 +6,7 @@ El video se encuentra en [YouTube](https://www.youtube.com/watch?v=hH5E6fCl0bc")
 ![Screenshot](screenshots/EjemploMejorRuta.png)
 
 ## Herramientas de desarrollo
-* Librería de mapas: MapBox https://www.mapbox.com/)
+* Librería de mapas: [MapBox](https://www.mapbox.com/)
 * Lenguajes de programación: HTML, CSS y JavaScript
 
 ## Documentaciones útiles
