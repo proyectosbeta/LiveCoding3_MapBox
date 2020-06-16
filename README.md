@@ -1,7 +1,8 @@
-# LiveCoding3_MapBox
-Live coding: Mejor ruta entre dos puntos usando MapBox.
+# Live coding: Mejor ruta entre dos puntos usando MapBox
+Se muestra en un live como implementar la mejor ruta entre dos puntos usando la librería y servicios de MapBox.
+El video se encuentra en YouTube [https://www.youtube.com/watch?v=hH5E6fCl0bc](url){:target="_blank"}
 
-# Screenshots
+## Screenshots
 ![Screenshot](screenshots/EjemploMejorRuta.png)
 
 ## Herramientas de desarrollo
