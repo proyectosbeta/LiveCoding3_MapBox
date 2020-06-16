@@ -1,6 +1,6 @@
 # Live coding: Mejor ruta entre dos puntos usando MapBox
 Se muestra en un live como implementar la mejor ruta entre dos puntos usando la librería y servicios de MapBox.
-El video se encuentra en YouTube [YouTube](https://www.youtube.com/watch?v=hH5E6fCl0bc" target="_blank)
+El video se encuentra en [YouTube](https://www.youtube.com/watch?v=hH5E6fCl0bc")
 
 ## Screenshots
 ![Screenshot](screenshots/EjemploMejorRuta.png)
